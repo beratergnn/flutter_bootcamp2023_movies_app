@@ -5,6 +5,7 @@ import 'package:movies_bloc_pattern/ui/views/main_page.dart';
 
 void main() {
   runApp(const MyApp());
+  // deneme
 }
 
 class MyApp extends StatelessWidget {
